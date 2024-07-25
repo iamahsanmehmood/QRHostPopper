@@ -12,7 +12,7 @@ QRHostPopper is a service-like application that runs in the background and shows
 
 1. Clone the repository to your local machine:
     ```sh
-    git clone https://github.com/yourusername/QRHostPopper.git
+    git clone https://github.com/iamahsanmehmood/QRHostPopper.git
     ```
 2. Open the solution file in Visual Studio.
 3. Restore the NuGet packages.
@@ -43,7 +43,7 @@ This file implements a message filter to handle the specified shortcut keys and 
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE]((https://github.com/iamahsanmehmood/QRHostPopper/blob/main/LICENSE.md)) file for details.
 
 ## Contributing
 
