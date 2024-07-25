@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "RiWMrl4s9Oh41oSZj5q/oA7EUxo1SdDpfKtvJBSFiOuI6UBcqu0GDH3u2wEMRdgMVFfoY4Ip5NwAhBkpdhTvsA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ahsan Mehmood\\source\\repos\\QRHostPopper\\QRHostPopper\\QRHostPopper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ahsan Mehmood\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Ahsan Mehmood\\.nuget\\packages\\qrcoder\\1.4.3\\qrcoder.1.4.3.nupkg.sha512",
+    "C:\\Users\\Ahsan Mehmood\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\Ahsan Mehmood\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.16\\microsoft.netcore.app.runtime.win-x86.6.0.16.nupkg.sha512",
+    "C:\\Users\\Ahsan Mehmood\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.16\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.16.nupkg.sha512",
+    "C:\\Users\\Ahsan Mehmood\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.16\\microsoft.aspnetcore.app.runtime.win-x86.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
